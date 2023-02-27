@@ -1,0 +1,11 @@
+C:\Users\ismar\Desktop\proyectoEscanhos_c#\ProyectoEscanhos\bin\Debug\ProyectoEscanhos.exe.config
+C:\Users\ismar\Desktop\proyectoEscanhos_c#\ProyectoEscanhos\bin\Debug\ProyectoEscanhos.exe
+C:\Users\ismar\Desktop\proyectoEscanhos_c#\ProyectoEscanhos\bin\Debug\ProyectoEscanhos.pdb
+C:\Users\ismar\Desktop\proyectoEscanhos_c#\ProyectoEscanhos\obj\Debug\ProyectoEscanhos.csproj.AssemblyReference.cache
+C:\Users\ismar\Desktop\proyectoEscanhos_c#\ProyectoEscanhos\obj\Debug\ProyectoEscanhos.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismar\Desktop\proyectoEscanhos_c#\ProyectoEscanhos\obj\Debug\ProyectoEscanhos.Properties.Resources.resources
+C:\Users\ismar\Desktop\proyectoEscanhos_c#\ProyectoEscanhos\obj\Debug\ProyectoEscanhos.csproj.GenerateResource.cache
+C:\Users\ismar\Desktop\proyectoEscanhos_c#\ProyectoEscanhos\obj\Debug\ProyectoEscanhos.csproj.CoreCompileInputs.cache
+C:\Users\ismar\Desktop\proyectoEscanhos_c#\ProyectoEscanhos\obj\Debug\ProyectoEscanhos.exe
+C:\Users\ismar\Desktop\proyectoEscanhos_c#\ProyectoEscanhos\obj\Debug\ProyectoEscanhos.pdb
+C:\Users\ismar\Desktop\proyectoEscanhos_c#\ProyectoEscanhos\obj\Debug\ProyectoEscanhos.Inicio.resources
